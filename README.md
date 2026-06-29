@@ -99,15 +99,10 @@
 
 ## 📒 翻新记录 · By the Numbers
 
-<p align="center"><sub>配角登场，温暖的 <code>gruvbox</code> 琥珀色，刚好配老虎 🐯</sub></p>
+<p align="center"><sub>🔨 自家工坊出品 —— 由 GitHub Action 生成、直接提交进仓库的统计卡，渲染时只从本仓库取图，稳定不掉链子</sub></p>
 
 <p align="center">
-  <img height="170" alt="NieZhuZhu 的 GitHub 翻新记录" src="https://github-readme-stats.vercel.app/api?username=NieZhuZhu&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-  <img height="170" alt="NieZhuZhu 最常使用的语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NieZhuZhu&layout=compact&theme=gruvbox&langs_count=8&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="NieZhuZhu 的 GitHub 荣誉墙" src="https://github-profile-trophy.vercel.app/?username=NieZhuZhu&theme=gruvbox&column=7&row=1&margin-w=15&margin-h=15&no-frame=false&no-bg=false" />
+  <img alt="NieZhuZhu 的 GitHub 统计与语言占比" src="https://raw.githubusercontent.com/NieZhuZhu/NieZhuZhu/main/github-metrics.svg" />
 </p>
 
 ---
