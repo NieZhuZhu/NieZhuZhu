@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/NieZhuZhu/Blog">
-  <img alt="弹铁蛋 NieZhuZhu · Keep Refurbishing 🐯🔨" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF7A18&center=true&vCenter=true&width=720&height=90&lines=Hi%2C+I'm+NieZhuZhu+%F0%9F%90%AF;%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%40+ByteDance;I+write+a+blog+inside+GitHub+Issues+%E2%9C%8D%EF%B8%8F;%E7%BF%BB%E6%96%B0%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E7%BF%BB%E6%96%B0%E8%87%AA%E5%B7%B1+%C2%B7+Keep+Refurbishing+%F0%9F%94%A8" />
+  <img alt="NieZhuZhu · Keep Refurbishing 🐯🔨" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF7A18&center=true&vCenter=true&width=720&height=90&lines=Hi%2C+I'm+NieZhuZhu+%F0%9F%90%AF;Front-end+Engineer+%40+ByteDance;I+write+a+blog+inside+GitHub+Issues+%E2%9C%8D%EF%B8%8F;Refurbishing+code+and+myself+%C2%B7+Keep+Refurbishing+%F0%9F%94%A8" />
 </a>
 
 <br/>
 
-🔨&nbsp;&nbsp;⚡&nbsp;&nbsp;🐯&nbsp;&nbsp;**叮叮当当 · 把旧代码敲成新零件**&nbsp;&nbsp;🐯&nbsp;&nbsp;⚡&nbsp;&nbsp;🔨
+🔨&nbsp;&nbsp;⚡&nbsp;&nbsp;🐯&nbsp;&nbsp;**Hammering old code into shiny new parts**&nbsp;&nbsp;🐯&nbsp;&nbsp;⚡&nbsp;&nbsp;🔨
 
 <img alt="Tiger watchers" src="https://komarev.com/ghpvc/?username=NieZhuZhu&label=Tiger+watchers&color=FF7A18&style=for-the-badge" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/NieZhuZhu?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=FF7A18" />
@@ -15,43 +15,43 @@
 
 ---
 
-## 🪧 关于这只老虎 · About
+## 🪧 About
 
-> **白天盖楼，晚上抡锤 —— 代码和自己，都值得被反复翻新。**
+> **Building by day, hammering by night — both the code and myself deserve to be refurbished again and again.**
 
-我是 **弹铁蛋（[NieZhuZhu](https://github.com/NieZhuZhu)）** 🐯 —— 字节跳动前端工程师，常驻北京。
-用 **React + TypeScript** 搭场子，对 **代码质量与工程化** 格外较真；闲下来就把踩过的坑、读过的源码，一篇篇盘成文章，顺手把旧代码盘出包浆。
+I'm **NieZhuZhu** 🐯 — a front-end engineer at ByteDance, based in Beijing.
+I build with **React + TypeScript** and care deeply about **code quality & engineering practices**. In my spare time I turn the pitfalls I've stepped on and the source code I've read into blog posts, while polishing old code into something new.
 
 > _A front-end tiger @ ByteDance who blogs inside GitHub Issues and keeps refurbishing — both the code and himself._ 🔨
 
 <table>
   <tr>
-    <td>🔨 <b>工位 Workbench</b></td>
-    <td>前端工程师 Front-end Engineer · 北京 Beijing · 字节跳动 ByteDance</td>
+    <td>🔨 <b>Workbench</b></td>
+    <td>Front-end Engineer · Beijing · ByteDance</td>
   </tr>
   <tr>
-    <td>🐯 <b>招牌 Signboard</b></td>
+    <td>🐯 <b>Signboard</b></td>
     <td>FE 🐯 Refurbishing 🐯 · Keep Refurbishing</td>
   </tr>
   <tr>
-    <td>🧪 <b>主料 Materials</b></td>
+    <td>🧪 <b>Materials</b></td>
     <td>React · TypeScript · JavaScript · Node.js (hapi) · GraphQL · CSS</td>
   </tr>
   <tr>
-    <td>🧹 <b>讲究 Craft</b></td>
-    <td>代码质量 & 工具链 —— ESLint · typescript-eslint · SonarJS</td>
+    <td>🧹 <b>Craft</b></td>
+    <td>Code quality & tooling — ESLint · typescript-eslint · SonarJS</td>
   </tr>
   <tr>
-    <td>📅 <b>开张 Since</b></td>
-    <td>GitHub, 2018 · 还在持续上工中</td>
+    <td>📅 <b>Since</b></td>
+    <td>GitHub, 2018 · Still hammering away</td>
   </tr>
 </table>
 
 ---
 
-## ✍️ 精选 Blog 文章 · Featured Posts
+## ✍️ Featured Blog Posts
 
-我的「名片」不是一段自我介绍，而是这个博客本身 —— 一座写在 **GitHub Issues** 里的中文前端博客，按 `React / JavaScript / CSS / GraphQL` 分门别类陈列。真问题、真踩坑、真翻新。
+My "business card" isn't a self-introduction — it's the blog itself: a front-end blog written inside **GitHub Issues**, organized by `React / JavaScript / CSS / GraphQL`. Real problems, real pitfalls, real refurbishing.
 
 <p align="center">
   <a href="https://github.com/NieZhuZhu/Blog">
@@ -61,28 +61,28 @@
 
 <table>
   <thead>
-    <tr><th>类目 Bin</th><th>翻新成品 Refurbished Post</th></tr>
+    <tr><th>Category</th><th>Post</th></tr>
   </thead>
   <tbody>
-    <tr><td align="center"><kbd>JS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/1">你不知道的 JSON.stringify() 的威力</a></td></tr>
-    <tr><td align="center"><kbd>JS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/2">面试官连环追问：数组拍平（扁平化）flat 方法实现</a></td></tr>
-    <tr><td align="center"><kbd>CSS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/3">你的垂直居中有问题？我竟无法反驳 🤦</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/5">如何优雅地解决多个 React、Vue App 之间的状态共享？</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/13">React Fiber 简介 - React 背后的算法</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/12">React 18 中新的 Suspense SSR 架构</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/15">5 种有趣的 useEffect 无限循环类型</a></td></tr>
+    <tr><td align="center"><kbd>JS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/1">The Hidden Power of JSON.stringify()</a></td></tr>
+    <tr><td align="center"><kbd>JS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/2">Interviewer Deep-Dive: Implementing Array.prototype.flat()</a></td></tr>
+    <tr><td align="center"><kbd>CSS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/3">Your Vertical Centering Is Wrong? I Can't Even Argue 🤦</a></td></tr>
+    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/5">Elegantly Sharing State Across Multiple React / Vue Apps</a></td></tr>
+    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/13">Introduction to React Fiber — The Algorithm Behind React</a></td></tr>
+    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/12">The New Suspense SSR Architecture in React 18</a></td></tr>
+    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/15">5 Interesting Types of useEffect Infinite Loops</a></td></tr>
   </tbody>
 </table>
 
 <p align="center">
-  <a href="https://github.com/NieZhuZhu/Blog"><b>📚 翻看全部文章 · Browse all posts →</b></a>
+  <a href="https://github.com/NieZhuZhu/Blog"><b>📚 Browse all posts →</b></a>
 </p>
 
 ---
 
-## 🧰 工具墙 · Tech Stack
+## 🧰 Tech Stack
 
-> 墙上挂的都是顺手的家伙什儿 —— 不堆满整面墙，只留每天真正上手的那几把。
+> Only the tools I actually reach for every day — no shelf fillers.
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -93,23 +93,23 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
-<p align="center"><sub>🔧 顺手翻新的工具链：ESLint · typescript-eslint · SonarJS —— 在意代码质量这件小事</sub></p>
+<p align="center"><sub>🔧 Tooling I refurbish with: ESLint · typescript-eslint · SonarJS — sweating the small stuff of code quality</sub></p>
 
 ---
 
-## 📒 翻新记录 · By the Numbers
+## 📒 By the Numbers
 
-<p align="center"><sub>🔨 自家工坊出品 —— 由 GitHub Action 生成、直接提交进仓库的统计卡，渲染时只从本仓库取图，稳定不掉链子</sub></p>
+<p align="center"><sub>🔨 Home-brewed stats — generated by GitHub Actions and committed to this repo, so images always load reliably</sub></p>
 
 <p align="center">
-  <img alt="NieZhuZhu 的 GitHub 统计与语言占比" src="https://raw.githubusercontent.com/NieZhuZhu/NieZhuZhu/main/github-metrics.svg" />
+  <img alt="NieZhuZhu's GitHub stats and language breakdown" src="https://raw.githubusercontent.com/NieZhuZhu/NieZhuZhu/main/github-metrics.svg" />
 </p>
 
 ---
 
-## 🐍 巡逻小蛇 · Contribution Snake
+## 🐍 Contribution Snake
 
-> 收工之后，工坊里这条小蛇会沿着工位巡逻，把当天的贡献格子一格格啃干净 —— 啃完一格，就是翻新一寸 🔨
+> After hours, this little snake patrols the workshop, gobbling up contribution squares one by one — each square eaten is another inch refurbished 🔨
 
 <div align="center">
   <picture>
@@ -121,7 +121,7 @@
 
 ---
 
-## 📮 找到这只老虎 · Find the Tiger
+## 📮 Find the Tiger
 
 <p align="center">
   <a href="https://github.com/NieZhuZhu/Blog">
@@ -134,9 +134,9 @@
 
 ---
 
-<h3 align="center">🔨 真诚 Star，手留余香 💕</h3>
+<h3 align="center">🔨 If this was helpful, a Star goes a long way 💕</h3>
 
 <p align="center">
-  <sub>读到有收获，真诚 Star 一下 ⭐ —— 谢谢光临，下次再来。</sub><br/>
+  <sub>If you found something useful, drop a ⭐ — thanks for stopping by, see you next time.</sub><br/>
   <sub>FE 🐯 Refurbishing 🐯 · Keep Refurbishing 🔨</sub>
 </p>
