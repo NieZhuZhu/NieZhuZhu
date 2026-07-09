@@ -49,37 +49,6 @@ I build with **React + TypeScript** and care deeply about **code quality & engin
 
 ---
 
-## ✍️ Featured Blog Posts
-
-My "business card" isn't a bio — it's the blog itself: a front-end blog written inside **GitHub Issues**, organized by `React / JavaScript / CSS / GraphQL`. Real problems, real pitfalls, real refurbishing.
-
-<p align="center">
-  <a href="https://github.com/NieZhuZhu/Blog">
-    <img alt="Blog stars" src="https://img.shields.io/github/stars/NieZhuZhu/Blog?style=for-the-badge&logo=github&logoColor=white&label=Blog%20%E2%98%85&color=FF7A18" />
-  </a>
-</p>
-
-<table>
-  <thead>
-    <tr><th>Category</th><th>Post</th></tr>
-  </thead>
-  <tbody>
-    <tr><td align="center"><kbd>JS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/1">The Hidden Power of JSON.stringify()</a></td></tr>
-    <tr><td align="center"><kbd>JS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/2">Interviewer Deep-Dive: Implementing Array.prototype.flat()</a></td></tr>
-    <tr><td align="center"><kbd>CSS</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/3">Your Vertical Centering Is Wrong? I Can't Even Argue 🤦</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/5">Elegantly Sharing State Across Multiple React / Vue Apps</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/13">Introduction to React Fiber — The Algorithm Behind React</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/12">The New Suspense SSR Architecture in React 18</a></td></tr>
-    <tr><td align="center"><kbd>React</kbd></td><td><a href="https://github.com/NieZhuZhu/Blog/issues/15">5 Interesting Types of useEffect Infinite Loops</a></td></tr>
-  </tbody>
-</table>
-
-<p align="center">
-  <a href="https://github.com/NieZhuZhu/Blog"><b>📚 Browse all posts →</b></a>
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 > Only the tools I actually reach for every day — no shelf fillers.
