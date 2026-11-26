@@ -35,7 +35,7 @@ I build with **React + TypeScript** and care deeply about **code quality & engin
   </tr>
   <tr>
     <td>🧪 <b>Materials</b></td>
-    <td>React · TypeScript · JavaScript · Node.js (hapi) · GraphQL · CSS</td>
+    <td>React · TypeScript · JavaScript · Node.js (hapi) · GraphQL · CSS · Go · Rust · Python · Kotlin</td>
   </tr>
   <tr>
     <td>🧹 <b>Craft</b></td>
@@ -51,7 +51,7 @@ I build with **React + TypeScript** and care deeply about **code quality & engin
 
 ## 🧰 Tech Stack
 
-> Only the tools I actually reach for every day — no shelf fillers.
+> The stack I use for web development, backend services, developer tooling, and Android contributions.
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -60,6 +60,13 @@ I build with **React + TypeScript** and care deeply about **code quality & engin
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-202020?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <p align="center"><sub>🔧 The tools I refurbish with: ESLint · typescript-eslint · SonarJS — sweating the small stuff of code quality</sub></p>
